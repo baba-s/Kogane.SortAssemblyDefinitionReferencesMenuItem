@@ -1,0 +1,18 @@
+﻿{
+    "name": "Kogane.SortAssemblyDefinitionReferencesMenuItem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eaa0b1a7b16f0f544821f7be4da30c1f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
